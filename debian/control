@@ -1,0 +1,119 @@
+Source: osso-clock-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-clock-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-clock-l10n-mr
+Depends: osso-clock-l10n-ruru, osso-clock-l10n-frfr, osso-clock-l10n-frca, osso-clock-l10n-dadk, osso-clock-l10n-itit, osso-clock-l10n-svse, osso-clock-l10n-nono, osso-clock-l10n-fifi, osso-clock-l10n-nlnl, osso-clock-l10n-enus, osso-clock-l10n-dede, osso-clock-l10n-esmx, osso-clock-l10n-eses, osso-clock-l10n-cscz, osso-clock-l10n-ptpt, osso-clock-l10n-engb, osso-clock-l10n-plpl
+Description: osso-clock marketing release package
+ This is a metapackage for osso-clock to pull all the l10n packages.
+ Application developers of osso-clock should depend on
+ "osso-clock-l10n-mr0 | osso-clock-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-clock-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-clock (cs_CZ)
+ Language files for cs_CZ osso-clock.
+
+Package: osso-clock-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-clock (da_DK)
+ Language files for da_DK osso-clock.
+
+Package: osso-clock-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-clock (de_DE)
+ Language files for de_DE osso-clock.
+
+Package: osso-clock-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-clock (en_GB)
+ Language files for en_GB osso-clock.
+
+Package: osso-clock-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-clock (en_US)
+ Language files for en_US osso-clock.
+
+Package: osso-clock-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-clock (es_ES)
+ Language files for es_ES osso-clock.
+
+Package: osso-clock-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-clock (es_MX)
+ Language files for es_MX osso-clock.
+
+Package: osso-clock-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-clock (fi_FI)
+ Language files for fi_FI osso-clock.
+
+Package: osso-clock-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-clock (fr_CA)
+ Language files for fr_CA osso-clock.
+
+Package: osso-clock-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-clock (fr_FR)
+ Language files for fr_FR osso-clock.
+
+Package: osso-clock-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-clock (it_IT)
+ Language files for it_IT osso-clock.
+
+Package: osso-clock-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-clock (nl_NL)
+ Language files for nl_NL osso-clock.
+
+Package: osso-clock-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-clock (no_NO)
+ Language files for no_NO osso-clock.
+
+Package: osso-clock-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-clock (pl_PL)
+ Language files for pl_PL osso-clock.
+
+Package: osso-clock-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-clock (pt_PT)
+ Language files for pt_PT osso-clock.
+
+Package: osso-clock-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-clock (ru_RU)
+ Language files for ru_RU osso-clock.
+
+Package: osso-clock-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-clock (sv_SE)
+ Language files for sv_SE osso-clock.

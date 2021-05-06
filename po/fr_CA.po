@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Paramètres d'alarme"
+
+msgid "cloc_ap_name"
+msgstr "Horloge"
+
+msgid "cloc_ap_name_short"
+msgstr "Horloge"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Répéter"
+
+msgid "cloc_bd_stop"
+msgstr "Arrêter"
+
+msgid "cloc_bd_view"
+msgstr "Détails"
+
+msgid "cloc_fi_active"
+msgstr "Alarme active"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "Dans ce fuseau horaire"
+
+msgid "cloc_fi_local_time"
+msgstr "Heure locale"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Aucune correspondance"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Allumer terminal ?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Heure à distance"
+
+msgid "cloc_fi_repeat"
+msgstr "Répétition"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Alarme horloge 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Alarme horloge 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Alarme horloge 3"
+
+msgid "cloc_fi_time"
+msgstr "Heure"
+
+msgid "cloc_fi_time_difference"
+msgstr "Différence d'heure"
+
+msgid "cloc_fi_timezone"
+msgstr "TU %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "TU %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "TU %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "TU %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Choisir fuseau horaire"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Tonalité d'alarme actuelle supprimée"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Ville déjà créée"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Paramètres régionaux"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Nouvelle horloge universelle"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Impossible d'exécuter l'opération. Réessayer."
+
+msgid "cloc_notify_alarm_set"
+msgstr "Temps restant avant alarme %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Temps approximatif restant avant alarme %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Alarme"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Choisir tonalité d'alarme"
+
+msgid "cloc_ti_alarms"
+msgstr "Alarmes"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Modifier alarme"
+
+msgid "cloc_ti_next"
+msgstr "Suivante"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Ajouter tonalité d'alarme"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Rechercher une ville"
+
+msgid "cloc_ti_start_day"
+msgstr "le %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Actuellement %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(aucune alarme)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "Demain"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Détails des horloges universelles"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Horloges universelles"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d jour"
+msgstr[1] "%d jours"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d heure"
+msgstr[1] "%+d heures"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s et %d heure"
+msgstr[1] "%s et %d heures"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d minutes"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Chaque jour"
+
+msgid "cloc_va_never"
+msgstr "Jamais"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Titre"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(aucun fichier)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Impossible de lire la tonalité d'alarme sélectionnée"
+
+msgid "clock_ti_new_alarm"
+msgstr "Nouvelle alarme"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Langue du terminal"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Format de la date"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Séparateur décimal"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Séparateur des milliers"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Paramètres régionaux"
+
+msgid "cpal_nc_changing_language"
+msgstr ""
+"Toutes les applications seront fermées et le terminal va redémarrer.\n"
+"Continuer ?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Langue et région"
+
+msgid "dati_ap_application_title"
+msgstr "Date et heure"
+
+msgid "dati_fi_24_clock"
+msgstr "Horloge 24 heures"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Tonalité d'alarme"
+
+msgid "dati_fi_pr_date"
+msgstr "Date"
+
+msgid "dati_fi_pr_time"
+msgstr "Heure"
+
+msgid "dati_fi_snooze_time"
+msgstr "Délai de répétition d'alarme"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Mise à jour automatique"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Régler la date et l'heure"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Fuseau horaire"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Horloges et alarmes"
+
+msgid "dati_va_snooze_10"
+msgstr "10 minutes"
+
+msgid "dati_va_snooze_15"
+msgstr "15 minutes"
+
+msgid "dati_va_snooze_5"
+msgstr "5 minutes"

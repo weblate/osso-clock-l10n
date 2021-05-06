@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Hälytysasetukset"
+
+msgid "cloc_ap_name"
+msgstr "Kello"
+
+msgid "cloc_ap_name_short"
+msgstr "Kello"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Torkku"
+
+msgid "cloc_bd_stop"
+msgstr "Lopeta"
+
+msgid "cloc_bd_view"
+msgstr "Näytä"
+
+msgid "cloc_fi_active"
+msgstr "Hälytys käytössä"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "Tällä aikavyöhykkeellä"
+
+msgid "cloc_fi_local_time"
+msgstr "Paikallinen aika"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Ei osumia"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Käynnistetäänkö laite?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Kohteen aika"
+
+msgid "cloc_fi_repeat"
+msgstr "Toista"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Kellon hälytys 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Kellon hälytys 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Kellon hälytys 3"
+
+msgid "cloc_fi_time"
+msgstr "Aika"
+
+msgid "cloc_fi_time_difference"
+msgstr "Aikaero"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d.%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d.%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Valitse aikavyöhyke"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Nykyinen hälytysääni poistettu"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Kaupunki on jo lisätty"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Maa-asetukset"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Uusi maailmankello"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Toimintoa ei voi suorittaa. Yritä uudelleen."
+
+msgid "cloc_notify_alarm_set"
+msgstr "Aikaa jäljellä hälytykseen %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Aikaa jäljellä hälytykseen noin %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Hälytys"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Valitse hälytysääni"
+
+msgid "cloc_ti_alarms"
+msgstr "Hälytykset"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Muokkaa hälytystä"
+
+msgid "cloc_ti_next"
+msgstr "Seuraava"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Lisää hälytysääni"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Etsi kaupunki"
+
+msgid "cloc_ti_start_day"
+msgstr "%sna"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Tällä hetk. %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(ei hälytyksiä)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "huomenna"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Maailmankellon tiedot"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Maailmankellot"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d päivä"
+msgstr[1] "%d päivää"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d tunti"
+msgstr[1] "%+d tuntia"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s ja %d tunti"
+msgstr[1] "%s ja %d tuntia"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d minuuttia"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Päivittäin"
+
+msgid "cloc_va_never"
+msgstr "Ei koskaan"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Otsikko"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(ei tiedostoja)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Valittua hälytysääntä ei voi soittaa"
+
+msgid "clock_ti_new_alarm"
+msgstr "Uusi hälytys"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Laitteen kieli"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Päivämäärän esitys"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Desimaalierotin"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Tuhansien erotin"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Maa-asetukset"
+
+msgid "cpal_nc_changing_language"
+msgstr ""
+"Sovellukset suljetaan ja laite käynnistyy uudelleen.\n"
+"Jatketaanko silti?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Kieli ja alue"
+
+msgid "dati_ap_application_title"
+msgstr "Päivämäärä ja kello"
+
+msgid "dati_fi_24_clock"
+msgstr "24 tunnin kello"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Hälytysääni"
+
+msgid "dati_fi_pr_date"
+msgstr "Päivämäärä"
+
+msgid "dati_fi_pr_time"
+msgstr "Aika"
+
+msgid "dati_fi_snooze_time"
+msgstr "Torkkuaika"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Päivitä automaattisesti"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Säädä pvm ja aika"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Aikavyöhyke"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Kello ja hälytykset"
+
+msgid "dati_va_snooze_10"
+msgstr "10 minuuttia"
+
+msgid "dati_va_snooze_15"
+msgstr "15 minuuttia"
+
+msgid "dati_va_snooze_5"
+msgstr "5 minuuttia"

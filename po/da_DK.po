@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Alarmindstillinger"
+
+msgid "cloc_ap_name"
+msgstr "Ur"
+
+msgid "cloc_ap_name_short"
+msgstr "Ur"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Udsæt"
+
+msgid "cloc_bd_stop"
+msgstr "Stop"
+
+msgid "cloc_bd_view"
+msgstr "Vis"
+
+msgid "cloc_fi_active"
+msgstr "Alarm aktiv"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "I denne tidszone"
+
+msgid "cloc_fi_local_time"
+msgstr "Lokal tid"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Ingen forekomster"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Tænd enhed?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Tid i denne tidszone"
+
+msgid "cloc_fi_repeat"
+msgstr "Gentag"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Alarmtone 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Alarmtone 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Alarmtone 3"
+
+msgid "cloc_fi_time"
+msgstr "Klokkeslæt"
+
+msgid "cloc_fi_time_difference"
+msgstr "Tidsforskel"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Vælg tidszone"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Aktuel alarmtone slettet"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "By allerede tilføjet"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Internationale indstillinger"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Nyt verdensur"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Kunne ikke udføre handling. Prøv igen."
+
+msgid "cloc_notify_alarm_set"
+msgstr "Tid tilbage til alarm %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Tid tilbage til alarm ca. %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Alarm"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Vælg alarmtone"
+
+msgid "cloc_ti_alarms"
+msgstr "Alarmer"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Rediger alarm"
+
+msgid "cloc_ti_next"
+msgstr "Næste"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Tilføj alarmtone"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Søg efter by"
+
+msgid "cloc_ti_start_day"
+msgstr "på %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Aktuel %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(ingen alarmer)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "i morgen"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Oplysninger om verdensure"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Verdensure"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d dag"
+msgstr[1] "%d dage"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d time"
+msgstr[1] "%+d timer"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s og %d time"
+msgstr[1] "%s og %d timer"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d minutter"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Hver dag"
+
+msgid "cloc_va_never"
+msgstr "Aldrig"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Titel"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(ingen filer)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Kan ikke afspille den valgte alarmtone"
+
+msgid "clock_ti_new_alarm"
+msgstr "Ny alarm"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Enhedens sprog"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Datoformat"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Decimalseparator"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Tusindtalsseparator"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Int. indstillinger"
+
+msgid "cpal_nc_changing_language"
+msgstr ""
+"Alle programmer lukkes, og enheden genstarter.\n"
+"Fortsæt alligevel?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Sprog og område"
+
+msgid "dati_ap_application_title"
+msgstr "Dato og klokkeslæt"
+
+msgid "dati_fi_24_clock"
+msgstr "24-timers ur"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Alarmtone"
+
+msgid "dati_fi_pr_date"
+msgstr "Dato"
+
+msgid "dati_fi_pr_time"
+msgstr "Klokkeslæt"
+
+msgid "dati_fi_snooze_time"
+msgstr "Udsættelsestid"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Opdater automatisk"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Juster dato og klokkeslæt"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Tidszone"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Ur & Alarmer"
+
+msgid "dati_va_snooze_10"
+msgstr "10 minutter"
+
+msgid "dati_va_snooze_15"
+msgstr "15 minutter"
+
+msgid "dati_va_snooze_5"
+msgstr "5 minutter"

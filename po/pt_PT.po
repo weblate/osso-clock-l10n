@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Definições de alarme"
+
+msgid "cloc_ap_name"
+msgstr "Relógio"
+
+msgid "cloc_ap_name_short"
+msgstr "Relógio"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Suspender"
+
+msgid "cloc_bd_stop"
+msgstr "Parar"
+
+msgid "cloc_bd_view"
+msgstr "Ver"
+
+msgid "cloc_fi_active"
+msgstr "Alarme activo"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "Neste fuso horário"
+
+msgid "cloc_fi_local_time"
+msgstr "Hora local"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Sem resultados"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Ligar o dispositivo?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Hora remota"
+
+msgid "cloc_fi_repeat"
+msgstr "Repetir"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Alarme do relógio 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Alarme do relógio 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Alarme do relógio 3"
+
+msgid "cloc_fi_time"
+msgstr "Hora"
+
+msgid "cloc_fi_time_difference"
+msgstr "Diferença horária"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Seleccionar fuso horário"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Toque de alarme actual eliminado"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Cidade já adicionada"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Definições regionais"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Novo Relógio mundial"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Não foi possível executar a operação. Tente novamente."
+
+msgid "cloc_notify_alarm_set"
+msgstr "Tempo restante até ao alarme %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Tempo restante até ao alarme aproximadamente %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Alarme"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Seleccionar tom do alarme"
+
+msgid "cloc_ti_alarms"
+msgstr "Alarmes"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Editar alarme"
+
+msgid "cloc_ti_next"
+msgstr "Seguinte"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Adicionar tom do alarme"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Pesquisar cidade"
+
+msgid "cloc_ti_start_day"
+msgstr "%s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Actualmente %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(sem alarmes)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "Amanhã"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Detalhes do relógio mundial"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Relógios mundiais"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d dia"
+msgstr[1] "%d dias"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d hora"
+msgstr[1] "%+d horas"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s e %d hora"
+msgstr[1] "%s e %d horas"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d minutos"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Todos os dias"
+
+msgid "cloc_va_never"
+msgstr "Nunca"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Título"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(sem ficheiros)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Não foi possível reproduzir o tom de alarme seleccionado"
+
+msgid "clock_ti_new_alarm"
+msgstr "Novo alarme"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Idioma do dispositivo"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Formato da data"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Separador decimal"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Separador dos milhares"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Definições regionais"
+
+msgid "cpal_nc_changing_language"
+msgstr ""
+"Todas as aplicações serão fechadas e o dispositivo será reiniciado.\n"
+"Continuar?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Idioma e região"
+
+msgid "dati_ap_application_title"
+msgstr "Data e hora"
+
+msgid "dati_fi_24_clock"
+msgstr "Relógio de 24 horas"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Tom do alarme"
+
+msgid "dati_fi_pr_date"
+msgstr "Data"
+
+msgid "dati_fi_pr_time"
+msgstr "Hora"
+
+msgid "dati_fi_snooze_time"
+msgstr "Tempo de suspensão"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Actualizar automaticamente"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Ajustar data e hora"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Fuso horário"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Relógio e Alarmes"
+
+msgid "dati_va_snooze_10"
+msgstr "10 minutos"
+
+msgid "dati_va_snooze_15"
+msgstr "15 minutos"
+
+msgid "dati_va_snooze_5"
+msgstr "5 minutos"
