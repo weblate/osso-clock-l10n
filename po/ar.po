@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-04-27 12:29+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "إعدادات المنبه"
+
+msgid "cloc_ap_name"
+msgstr "الساعة"
+
+msgid "cloc_ap_name_short"
+msgstr "الساعة"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "غفوة"
+
+msgid "cloc_bd_stop"
+msgstr "إيقاف"
+
+msgid "cloc_bd_view"
+msgstr "إظهار"
+
+msgid "cloc_fi_active"
+msgstr "تنبيه مفعل"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "بالتوقيت المنطقة"
+
+msgid "cloc_fi_local_time"
+msgstr "الوقت المحلي"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "لايوجد تقارب"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "تشغيل الجهاز ؟"
+
+msgid "cloc_fi_remote_time"
+msgstr "التوقيت البعيد"
+
+msgid "cloc_fi_repeat"
+msgstr "التكرار"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "المنبة الأول"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "النبة الثاني"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "المنبه الثالث"
+
+msgid "cloc_fi_time"
+msgstr "الوقت"
+
+msgid "cloc_fi_time_difference"
+msgstr "فارق التوقيت"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "أختر توقيت المنطقة"
+
+msgid "cloc_ib_file_deleted"
+msgstr "تم حذف نغمة المنبه الحالية"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "البلدة مضافه سابقا"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "إعادادت المنطقة"
+
+msgid "cloc_me_new_world_clock"
+msgstr "توقيت عالمي جديد"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "غير قابل على تنفيذ العملية. حاول مره أخرى."
+
+msgid "cloc_notify_alarm_set"
+msgstr "الوقت الباقي لتنبيه %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "الوقت الباقي لتنبيه %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "المنبه"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "أختر نغمة المنبه"
+
+msgid "cloc_ti_alarms"
+msgstr "المنبه"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "تعديل المنبه"
+
+msgid "cloc_ti_next"
+msgstr "التالى"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "أضافة نغمة منبه"
+
+msgid "cloc_ti_search_city_title"
+msgstr "البحث عن المدينة"
+
+msgid "cloc_ti_start_day"
+msgstr "مفعل %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "الحالى %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(لايوجد منبهات)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "غدا"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "تفاصيل التوقيت العالمي"
+
+msgid "cloc_ti_world_clocks"
+msgstr "التوقيت العالمي"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d يوم"
+msgstr[1] "%d أيام"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d ساعة"
+msgstr[1] "%+d ساعات"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s و %d ساعة"
+msgstr[1] "%s and %d ساعه"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d دقيقة"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "كل يوم"
+
+msgid "cloc_va_never"
+msgstr "أبدا"
+
+msgid "cloc_va_placeholder_title"
+msgstr "العنوان"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(لايوجد ملفات)"
+
+msgid "clock_error_unabletoplay"
+msgstr "غير قادر على تشغيل نغمة التنبية"
+
+msgid "clock_ti_new_alarm"
+msgstr "منبه جديد"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "لغة الجهاز"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "صيغة التاريخ"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "فاصل التاريخ"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "فاصل الوقت"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "إعدادات المنطقة"
+
+msgid "cpal_nc_changing_language"
+msgstr ""
+"سوف يتم أغلاق جميع البرامج ويتم إعادة تشغيل الجهاز.\n"
+"الأستمرار على أي حال؟"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "اللغة & المنطقة"
+
+msgid "dati_ap_application_title"
+msgstr "التاريخ والوقت"
+
+msgid "dati_fi_24_clock"
+msgstr "24 ساعة"
+
+msgid "dati_fi_alarm_tone"
+msgstr "نغمة المنبه"
+
+msgid "dati_fi_pr_date"
+msgstr "التاريخ"
+
+msgid "dati_fi_pr_time"
+msgstr "الوقت"
+
+msgid "dati_fi_snooze_time"
+msgstr "مدة الغفوة"
+
+msgid "dati_fi_time_synchronization"
+msgstr "تحديث تلقائي"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "ضبط التاريخ والوقت"
+
+msgid "dati_ia_pr_timezone"
+msgstr "توقيت المنطقة"
+
+msgid "dati_ti_menu_plugin"
+msgstr "المنبه والساعة"
+
+msgid "dati_va_snooze_10"
+msgstr "10 دقائق"
+
+msgid "dati_va_snooze_15"
+msgstr "15 دقيقة"
+
+msgid "dati_va_snooze_5"
+msgstr "5 دقائق"
+
