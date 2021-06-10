@@ -1,0 +1,252 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Ρυθμίσεις ειδοποίησης"
+
+msgid "cloc_ap_name"
+msgstr "Ρολόι"
+
+msgid "cloc_ap_name_short"
+msgstr "Ρολόι"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Αναβολή"
+
+msgid "cloc_bd_stop"
+msgstr "Διακοπή"
+
+msgid "cloc_bd_view"
+msgstr "Προβολή"
+
+msgid "cloc_fi_active"
+msgstr "Ενεργοποίηση ειδοποίησης"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "Σε αυτή τη ζώνη ώρας"
+
+msgid "cloc_fi_local_time"
+msgstr "Τοπική ώρα"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Δεν υπάρχουν αντιστοιχίες"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Ενεργοποίηση συσκευής;"
+
+msgid "cloc_fi_remote_time"
+msgstr "Απομακρυσμένη ώρα"
+
+msgid "cloc_fi_repeat"
+msgstr "Επανάληψη"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Τύπος ειδοποίησης 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Τύπος ειδοποίησης 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Τύπος ειδοποίησης 3"
+
+msgid "cloc_fi_time"
+msgstr "Χρόνος"
+
+msgid "cloc_fi_time_difference"
+msgstr "Διαφορά ώρας"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Επιλέξτε τη ζώνη ώρας"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Ο ήχος ειδοποίησης διαγράφτηκε"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Η πόλη ήδη προστέθηκε"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Τοπικές ρυθμίσεις"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Νέο παγκόσμιο ρολόι"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Αδυναμία εκτέλεσης της λειτουργίας. Προσπαθήστε ξανά."
+
+msgid "cloc_notify_alarm_set"
+msgstr "Χρόνος που απομένει μέχρι την ειδοποίηση %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Μέρες που απομένουν μέχρι την ειδοποίηση %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Ειδοποίηση"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Επιλέξτε τον ήχο ειδοποίησης"
+
+msgid "cloc_ti_alarms"
+msgstr "Ειδοποιήσεις"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Επεξεργασία ειδοποίησης"
+
+msgid "cloc_ti_next"
+msgstr "Επόμενο"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Προσθήκη ήχου ειδοποίησης"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Αναζήτηση πόλης"
+
+msgid "cloc_ti_start_day"
+msgstr "Την %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Τρέχων %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(καμία ειδοποίηση)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "Αύριο"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Λεπτομέρειες Παγκόσμιου ρολογιού"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Παγκόσμια ρολόγια"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d ημέρα"
+msgstr[1] "%d ημέρες"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d ώρα"
+msgstr[1] "%+d ώρες"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s και %d ώρα"
+msgstr[1] "%s και %d ώρες"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d λεπτά"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Κάθε μέρα"
+
+msgid "cloc_va_never"
+msgstr "Ποτέ"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Όνομα"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(δεν υπάρχουν αρχεία)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Αδυναμία αναπαραγωγής επιλεγμένου ήχου ειδοποίησης"
+
+msgid "clock_ti_new_alarm"
+msgstr "Νέα ειδοποίηση"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Γλώσσα συσκευής"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Μορφή ημερομηνίας"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Διαχωριστής δεκαδικών"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Διαχωριστής χιλιάδων"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Τοπικές ρυθμίσεις"
+
+msgid "cpal_nc_changing_language"
+msgstr "Όλες οι εφαρμογές θα κλείσουν και η συσκευή θα κάνει επανεκκίνηση.\nΣυνέχεια;"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Γλώσσα και περιοχή"
+
+msgid "dati_ap_application_title"
+msgstr "Ημερομηνία και ώρα"
+
+msgid "dati_fi_24_clock"
+msgstr "24ωρο ρολόι"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Ήχος ειδοποίησης"
+
+msgid "dati_fi_pr_date"
+msgstr "Ημερομηνία"
+
+msgid "dati_fi_pr_time"
+msgstr "Ώρα"
+
+msgid "dati_fi_snooze_time"
+msgstr "Χρόνος αναβολής"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Αυτόματη ενημέρωση"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Προσαρμογή ημερομηνίας και ώρας"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Ζώνη ώρας"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Ρολόι και ειδοποιήσεις"
+
+msgid "dati_va_snooze_10"
+msgstr "10 λεπτά"
+
+msgid "dati_va_snooze_15"
+msgstr "15 λεπτά"
+
+msgid "dati_va_snooze_5"
+msgstr "5 λεπτά"
