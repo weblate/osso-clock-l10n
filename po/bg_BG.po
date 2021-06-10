@@ -1,0 +1,252 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Настройки за алармата"
+
+msgid "cloc_ap_name"
+msgstr "Часовник"
+
+msgid "cloc_ap_name_short"
+msgstr "Часовник"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Отлагане"
+
+msgid "cloc_bd_stop"
+msgstr "Спиране"
+
+msgid "cloc_bd_view"
+msgstr "Преглед"
+
+msgid "cloc_fi_active"
+msgstr "Алармата е активна"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "в тази часова зона"
+
+msgid "cloc_fi_local_time"
+msgstr "Местно време"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Няма съответствие"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Желаете ли да се включи устройството?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Отдалечено време"
+
+msgid "cloc_fi_repeat"
+msgstr "Повторение"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Аларма 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Аларма 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Аларма 3"
+
+msgid "cloc_fi_time"
+msgstr "Време"
+
+msgid "cloc_fi_time_difference"
+msgstr "Часова разлика"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Изберете часовата зона"
+
+msgid "cloc_ib_file_deleted"
+msgstr "Текущият звън за алармата бе изтрит"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Градът вече е добавен"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Регионални настройки"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Нов световен часовник"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "Операцията не може да бъде извършена. Опитайте отново."
+
+msgid "cloc_notify_alarm_set"
+msgstr "До алармата остава %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "До алармата остава около %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Аларма"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Изберете звън за алармата"
+
+msgid "cloc_ti_alarms"
+msgstr "Аларми"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Редактиране на аларма"
+
+msgid "cloc_ti_next"
+msgstr "Следваща"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Добавяне на звън за алармата"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Търсене на град"
+
+msgid "cloc_ti_start_day"
+msgstr "на %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "В момента е %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(няма аларми)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "Утре"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Подробности за световния часовник"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Световни часовници"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d ден"
+msgstr[1] "%d дена"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d час"
+msgstr[1] "%+d часа"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s и %d час"
+msgstr[1] "%s и %d часа"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d минути"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "Всеки ден"
+
+msgid "cloc_va_never"
+msgstr "Никога"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Заглавие"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(няма файлове)"
+
+msgid "clock_error_unabletoplay"
+msgstr "Избраният звън не може да бъде просвирен"
+
+msgid "clock_ti_new_alarm"
+msgstr "Нова аларма"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Език за устройството"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Формат на датата"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Десетичен разделител"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Разделител за хилядите"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Регионални настройки"
+
+msgid "cpal_nc_changing_language"
+msgstr "Всички приложения ще бъдат затворени и\nустройството ще бъде рестартирано.\nЖелаете ли да продължите?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Език и регион"
+
+msgid "dati_ap_application_title"
+msgstr "Дата и час"
+
+msgid "dati_fi_24_clock"
+msgstr "24-часов"
+
+msgid "dati_fi_alarm_tone"
+msgstr "Звън за алармата"
+
+msgid "dati_fi_pr_date"
+msgstr "Дата"
+
+msgid "dati_fi_pr_time"
+msgstr "Час"
+
+msgid "dati_fi_snooze_time"
+msgstr "Време на отлагане"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Автоматично обновяване"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Настройка на датата и часа"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Часова зона"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Часовник и аларми"
+
+msgid "dati_va_snooze_10"
+msgstr "10 минути"
+
+msgid "dati_va_snooze_15"
+msgstr "15 минути"
+
+msgid "dati_va_snooze_5"
+msgstr "5 минути"
