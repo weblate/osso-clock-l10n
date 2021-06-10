@@ -1,0 +1,253 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "Preferències d'alarma"
+
+msgid "cloc_ap_name"
+msgstr "Rellotge"
+
+msgid "cloc_ap_name_short"
+msgstr "Rellotge"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "Ajorna"
+
+msgid "cloc_bd_stop"
+msgstr "Atura"
+
+msgid "cloc_bd_view"
+msgstr "Visualitza"
+
+msgid "cloc_fi_active"
+msgstr "Alarma activa"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "En aquest fus horari"
+
+msgid "cloc_fi_local_time"
+msgstr "Hora local"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "Cap coincidència"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "Voleu engegar el dispositiu?"
+
+msgid "cloc_fi_remote_time"
+msgstr "Hora remota"
+
+msgid "cloc_fi_repeat"
+msgstr "Repetició"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "Alarma del rellotge 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "Alarma del rellotge 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "Alarma del rellotge 3"
+
+msgid "cloc_fi_time"
+msgstr "Hora"
+
+msgid "cloc_fi_time_difference"
+msgstr "Diferència horària"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "Trieu el fus horari"
+
+msgid "cloc_ib_file_deleted"
+msgstr "S'ha suprimit el so de l'alarma actual"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "Ja s'ha afegit la ciutat"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "Paràmetres regionals"
+
+msgid "cloc_me_new_world_clock"
+msgstr "Nou rellotge mundial"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "No s'ha pogut realitzar l'operació. Torneu-ho a provar"
+
+msgid "cloc_notify_alarm_set"
+msgstr "Temps restant fins a l'alarma — %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "Temps restants fins a l'alarma - vora %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "Alarma"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "Trieu un so d'alarma"
+
+msgid "cloc_ti_alarms"
+msgstr "Alarmes"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "Edita l'alarma"
+
+msgid "cloc_ti_next"
+msgstr "Següent"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "Afegeix un so d'alarma"
+
+msgid "cloc_ti_search_city_title"
+msgstr "Cerca la ciutat"
+
+msgid "cloc_ti_start_day"
+msgstr "a %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "Actualment %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(cap alarma)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "Demà"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "Detalls del rellotge mundial"
+
+msgid "cloc_ti_world_clocks"
+msgstr "Rellotges mundials"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d dia"
+msgstr[1] "%d dies"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d hora"
+msgstr[1] "%+d hores"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s i %d hora"
+msgstr[1] "%s i %d hores"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d minuts"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "cada dia"
+
+msgid "cloc_va_never"
+msgstr "mai"
+
+msgid "cloc_va_placeholder_title"
+msgstr "Títol"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(cap fitxer)"
+
+msgid "clock_error_unabletoplay"
+msgstr "No s'ha pogut reproduir el so d'alarma seleccionat"
+
+msgid "clock_ti_new_alarm"
+msgstr "Alarma nova"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "Llengua del dispositiu"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "Format de la data"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "Separador decimal"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "Separador de milers"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "Paràmetres regionals"
+
+msgid "cpal_nc_changing_language"
+msgstr "Es tancaran totes les aplicacions i es reiniciarà el dispositiu.\nVoleu continuar igualment?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "Llengua i regió"
+
+msgid "dati_ap_application_title"
+msgstr "Data i hora"
+
+msgid "dati_fi_24_clock"
+msgstr "Rellotge de 24h"
+
+msgid "dati_fi_alarm_tone"
+msgstr "So de l'alarma"
+
+msgid "dati_fi_pr_date"
+msgstr "Data"
+
+msgid "dati_fi_pr_time"
+msgstr "Hora"
+
+msgid "dati_fi_snooze_time"
+msgstr "Temps de descans"
+
+msgid "dati_fi_time_synchronization"
+msgstr "Actualitza automàticament"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "Ajusta la data i l'hora"
+
+msgid "dati_ia_pr_timezone"
+msgstr "Fus horari"
+
+msgid "dati_ti_menu_plugin"
+msgstr "Rellotges i alarmes"
+
+msgid "dati_va_snooze_10"
+msgstr "10 minuts"
+
+msgid "dati_va_snooze_15"
+msgstr "15 minuts"
+
+msgid "dati_va_snooze_5"
+msgstr "5 minuts"
