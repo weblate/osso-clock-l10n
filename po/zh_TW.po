@@ -1,0 +1,249 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-05-30 14:37+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "鬧鈴設定"
+
+msgid "cloc_ap_name"
+msgstr "時鐘"
+
+msgid "cloc_ap_name_short"
+msgstr "時鐘"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "鬧鈴重響"
+
+msgid "cloc_bd_stop"
+msgstr "停止"
+
+msgid "cloc_bd_view"
+msgstr "檢視"
+
+msgid "cloc_fi_active"
+msgstr "啟用鬧鈴"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "在這個時區內"
+
+msgid "cloc_fi_local_time"
+msgstr "當地時間"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "沒有符合"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "開啟裝置?"
+
+msgid "cloc_fi_remote_time"
+msgstr "遠端時間"
+
+msgid "cloc_fi_repeat"
+msgstr "重複"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "鬧鈴鈴聲1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "鬧鈴鈴聲2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "鬧鈴鈴聲3"
+
+msgid "cloc_fi_time"
+msgstr "時間"
+
+msgid "cloc_fi_time_difference"
+msgstr "時差"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "選擇時區"
+
+msgid "cloc_ib_file_deleted"
+msgstr "刪除目前鬧鈴鈴聲"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "城市已新增"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "區域設定"
+
+msgid "cloc_me_new_world_clock"
+msgstr "新的世界時鐘"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "無法執行操作.請再試一次."
+
+msgid "cloc_notify_alarm_set"
+msgstr "剩餘鬧鈴時間 %s"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "離鬧鈴停止時間 %s"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "鬧鈴"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "選擇鬧鈴鈴聲"
+
+msgid "cloc_ti_alarms"
+msgstr "鬧鈴"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "重設鬧鈴"
+
+msgid "cloc_ti_next"
+msgstr "下一次鬧鈴"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "新增鬧鈴鈴聲"
+
+msgid "cloc_ti_search_city_title"
+msgstr "搜尋城市"
+
+msgid "cloc_ti_start_day"
+msgstr "於 %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "目前 %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(沒有鬧鈴)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "明天"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "詳細世界時鐘"
+
+msgid "cloc_ti_world_clocks"
+msgstr "世界時鐘"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d 天"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d 小時"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s and %d 小時"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d 分鐘"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "每日"
+
+msgid "cloc_va_never"
+msgstr "從不"
+
+msgid "cloc_va_placeholder_title"
+msgstr "標題"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(沒有檔案)"
+
+msgid "clock_error_unabletoplay"
+msgstr "不能播放選定的鬧鈴"
+
+msgid "clock_ti_new_alarm"
+msgstr "新鬧鈴"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "裝置語言"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "日期格式"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "時間分隔符號"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "日期分隔符號"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "區域設定"
+
+msgid "cpal_nc_changing_language"
+msgstr "所有應用程式將被關閉, 仍然繼續?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "語言和區域"
+
+msgid "dati_ap_application_title"
+msgstr "日期和時間"
+
+msgid "dati_fi_24_clock"
+msgstr "24小時制"
+
+msgid "dati_fi_alarm_tone"
+msgstr "鬧鈴鈴聲"
+
+msgid "dati_fi_pr_date"
+msgstr "日期"
+
+msgid "dati_fi_pr_time"
+msgstr "時間"
+
+msgid "dati_fi_snooze_time"
+msgstr "鬧鈴重響"
+
+msgid "dati_fi_time_synchronization"
+msgstr "自動更新"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "調整日期和時間"
+
+msgid "dati_ia_pr_timezone"
+msgstr "時區"
+
+msgid "dati_ti_menu_plugin"
+msgstr "時鐘和鬧鈴"
+
+msgid "dati_va_snooze_10"
+msgstr "10分鐘"
+
+msgid "dati_va_snooze_15"
+msgstr "15分鐘"
+
+msgid "dati_va_snooze_5"
+msgstr "5分鐘"
