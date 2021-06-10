@@ -1,0 +1,249 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-05-30 14:45+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "알람 설정"
+
+msgid "cloc_ap_name"
+msgstr "시계"
+
+msgid "cloc_ap_name_short"
+msgstr "시계"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "스누즈"
+
+msgid "cloc_bd_stop"
+msgstr "중지"
+
+msgid "cloc_bd_view"
+msgstr "보기"
+
+msgid "cloc_fi_active"
+msgstr "알람 활성화"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "In this time zone"
+
+msgid "cloc_fi_local_time"
+msgstr "현지 시간"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "찾을 수 없음"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "장치를 켜시겠습니까?"
+
+msgid "cloc_fi_remote_time"
+msgstr "해당지역 시간"
+
+msgid "cloc_fi_repeat"
+msgstr "반복"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "시계 알람 1"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "시계 알람 2"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "시계 알람 3"
+
+msgid "cloc_fi_time"
+msgstr "시간"
+
+msgid "cloc_fi_time_difference"
+msgstr "시간 차이"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "표준 시간대를 선택하세요"
+
+msgid "cloc_ib_file_deleted"
+msgstr "현재 알람음이 삭제 되었습니다"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "도시가 이미 추가되었습니다"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "지역 설정"
+
+msgid "cloc_me_new_world_clock"
+msgstr "새로운 세계 시계"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "작업을 수행할 수 없습니다. 다시 시도해주세요."
+
+msgid "cloc_notify_alarm_set"
+msgstr "알람까지 울릴 때까지 남은 시간은 %s 입니다"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "알람까지 울릴 때까지 남은 시간은 %s 입니다"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "알람"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "알람음을 선택하세요"
+
+msgid "cloc_ti_alarms"
+msgstr "알람"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "알람 수정"
+
+msgid "cloc_ti_next"
+msgstr "다음"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "알람음 추가"
+
+msgid "cloc_ti_search_city_title"
+msgstr "도시 찾기"
+
+msgid "cloc_ti_start_day"
+msgstr "on %s"
+
+msgid "cloc_ti_start_gmt"
+msgstr "현재 시간대 %s"
+
+msgid "cloc_ti_start_no"
+msgstr "(알람 없음)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "내일"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "세계 시계 정보"
+
+msgid "cloc_ti_world_clocks"
+msgstr "세계 시계"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d일"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d시간"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s일하고 %d시간"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d분"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "매일"
+
+msgid "cloc_va_never"
+msgstr "사용 안함"
+
+msgid "cloc_va_placeholder_title"
+msgstr "제목"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(파일 없음)"
+
+msgid "clock_error_unabletoplay"
+msgstr "선택한 알람음을 재생할 수 없습니다"
+
+msgid "clock_ti_new_alarm"
+msgstr "새로운 알람"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "장치 언어"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "날짜 형식"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "소숫점 표기"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "천단위 표기"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "지역 설정"
+
+msgid "cpal_nc_changing_language"
+msgstr "모든 어플리케이션이 중지되고 장치가 재시작 됩니다.\n계속하시겠습니까?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "언어 및 지역"
+
+msgid "dati_ap_application_title"
+msgstr "날짜 및 시간"
+
+msgid "dati_fi_24_clock"
+msgstr "24시간제"
+
+msgid "dati_fi_alarm_tone"
+msgstr "알람음"
+
+msgid "dati_fi_pr_date"
+msgstr "날짜"
+
+msgid "dati_fi_pr_time"
+msgstr "시간"
+
+msgid "dati_fi_snooze_time"
+msgstr "스누즈 시간"
+
+msgid "dati_fi_time_synchronization"
+msgstr "자동으로 업데이트"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "날짜 및 시간 조정"
+
+msgid "dati_ia_pr_timezone"
+msgstr "표준 시간대"
+
+msgid "dati_ti_menu_plugin"
+msgstr "시계 및 알람"
+
+msgid "dati_va_snooze_10"
+msgstr "10 분"
+
+msgid "dati_va_snooze_15"
+msgstr "15 분"
+
+msgid "dati_va_snooze_5"
+msgstr "5 분"
