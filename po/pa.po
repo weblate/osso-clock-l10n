@@ -1,0 +1,252 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cloc_alarm_settings_title"
+msgstr "ਅਲਾਰਮ ਸੈਟਿੰਗ"
+
+msgid "cloc_ap_name"
+msgstr "ਘੜੀ"
+
+msgid "cloc_ap_name_short"
+msgstr "ਘੜੀ"
+
+msgid "cloc_bd_alarm_notification_snooze"
+msgstr "ਟਾਲੋ"
+
+msgid "cloc_bd_stop"
+msgstr "ਰੋਕੋ"
+
+msgid "cloc_bd_view"
+msgstr "ਵੇਖੋ"
+
+msgid "cloc_fi_active"
+msgstr "ਅਲਾਰਮ ਚਾਲੂ"
+
+msgid "cloc_fi_in_this_timezone"
+msgstr "ਇਸ ਸਮਾਂ ਖੇਤਰ ਵਿੱਚ"
+
+msgid "cloc_fi_local_time"
+msgstr "ਲੋਕਲ ਸਮਾਂ"
+
+msgid "cloc_fi_location"
+msgstr "%s, %s"
+
+msgid "cloc_fi_no_matches"
+msgstr "ਮਿਲਦਾ ਨਹੀਂ"
+
+msgid "cloc_fi_power_up_note_description"
+msgstr "ਜੰਤਰ ਚਾਲੂ ਕਰਨਾ ਹੈ?"
+
+msgid "cloc_fi_remote_time"
+msgstr "ਰਿਮੋਟ ਸਮਾਂ"
+
+msgid "cloc_fi_repeat"
+msgstr "ਦੁਹਰਾਉ"
+
+msgid "cloc_fi_set_alarm_tone1"
+msgstr "ਘੜੀ ਅਲਾਰਮ ੧"
+
+msgid "cloc_fi_set_alarm_tone2"
+msgstr "ਘੜੀ ਅਲਾਰਮ ੨"
+
+msgid "cloc_fi_set_alarm_tone3"
+msgstr "ਘੜੀ ਅਲਾਰਮ ੩"
+
+msgid "cloc_fi_time"
+msgstr "ਸਮਾਂ"
+
+msgid "cloc_fi_time_difference"
+msgstr "ਸਮਾਂ ਅੰਤਰ"
+
+msgid "cloc_fi_timezone"
+msgstr "GMT %+d"
+
+msgid "cloc_fi_timezone_minutes"
+msgstr "GMT %+d:%d"
+
+msgid "cloc_fi_timezonefull"
+msgstr "GMT %+d (%s, %s)"
+
+msgid "cloc_fi_timezonefull_minutes"
+msgstr "GMT %+d:%d (%s, %s)"
+
+msgid "cloc_ia_choose_time_zone"
+msgstr "ਸਮਾਂ ਖੇਤਰ ਚੁਣੋ"
+
+msgid "cloc_ib_file_deleted"
+msgstr "ਮੌਜੂਦਾ ਅਲਾਰਮ ਟੋਨ ਹਟਾਈ"
+
+msgid "cloc_ib_world_clock_same"
+msgstr "ਸ਼ਹਿਰ ਪਹਿਲਾਂ ਹੀ ਸ਼ਾਮਲ ਹੈ"
+
+msgid "cloc_me_menu_settings_regional"
+msgstr "ਖੇਤਰੀ ਸੈਟਿੰਗ"
+
+msgid "cloc_me_new_world_clock"
+msgstr "ਨਵੀਂ ਸੰਸਾਰ ਘੜੀ"
+
+msgid "cloc_ni_unable_to_perform"
+msgstr "ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਅਸਮਰੱਥ। ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।"
+
+msgid "cloc_notify_alarm_set"
+msgstr "ਅਲਾਰਮ %s ਲਈ ਬਾਕੀ ਰਹਿੰਦਾ ਸਮਾਂ"
+
+msgid "cloc_notify_alarm_set_days"
+msgstr "ਅਲਾਰਮ ਲਈ  %s ਸਮਾਂ ਬਾਕੀ"
+
+msgid "cloc_ti_alarm_notification_title"
+msgstr "ਅਲਾਰਮ"
+
+msgid "cloc_ti_alarm_tone"
+msgstr "ਅਲਾਰਮ ਟੋਨ ਚੁਣੋ"
+
+msgid "cloc_ti_alarms"
+msgstr "ਅਲਾਰਮ"
+
+msgid "cloc_ti_edit_alarm_title"
+msgstr "ਅਲਾਰਮ ਸੋਧ"
+
+msgid "cloc_ti_next"
+msgstr "ਅੱਗੇ"
+
+msgid "cloc_ti_open_sound_clip"
+msgstr "ਅਲਾਰਮ ਟੋਨ ਸ਼ਾਮਲ"
+
+msgid "cloc_ti_search_city_title"
+msgstr "ਸ਼ਹਿਰ ਲੱਭੋ"
+
+msgid "cloc_ti_start_day"
+msgstr "%s ਚਾਲੂ"
+
+msgid "cloc_ti_start_gmt"
+msgstr "%s ਮੌਜੂਦਾ"
+
+msgid "cloc_ti_start_no"
+msgstr "(ਅਲਾਰਮ ਨਹੀਂ)"
+
+msgid "cloc_ti_start_tomorrow"
+msgstr "ਭਲਕੇ"
+
+msgid "cloc_ti_world_clock_details"
+msgstr "ਸੰਸਾਰ ਘੜੀ ਵੇਰਵਾ"
+
+msgid "cloc_ti_world_clocks"
+msgstr "ਸੰਸਾਰ ਘੜੀ"
+
+msgid "cloc_va_amount_day"
+msgid_plural "cloc_va_amount_days"
+msgstr[0] "%d ਅੱਜ"
+msgstr[1] "%d ਦਿਨ"
+
+msgid "cloc_va_amount_hour"
+msgid_plural "cloc_va_amount_hours"
+msgstr[0] "%+d ਘੰਟਾ"
+msgstr[1] "%+d ਘੰਟੇ"
+
+msgid "cloc_va_amount_hour2"
+msgid_plural "cloc_va_amount_hours2"
+msgstr[0] "%s ਅਤੇ %d ਘੰਟਾ"
+msgstr[1] "%s ਅਤੇ %d ਘੰਟੇ"
+
+msgid "cloc_va_diff_hours"
+msgstr "%s"
+
+msgid "cloc_va_diff_hours_mins"
+msgstr "%s %d ਮਿੰਟ"
+
+msgid "cloc_va_every_dayname"
+msgstr "%s"
+
+msgid "cloc_va_every_dayname_short"
+msgstr "%s"
+
+msgid "cloc_va_everyday"
+msgstr "ਹਰ ਰੋਜ਼"
+
+msgid "cloc_va_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "cloc_va_placeholder_title"
+msgstr "ਟਾਈਟਲ"
+
+msgid "cloc_va_select_object_no_sound_clips"
+msgstr "(ਫਾਇਲਾਂ ਨਹੀਂ)"
+
+msgid "clock_error_unabletoplay"
+msgstr "ਚੁਣੀ ਅਲਾਰਮ ਟੋਨ ਚਲਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "clock_ti_new_alarm"
+msgstr "ਨਵਾਂ ਅਲਾਰਮ"
+
+msgid "cpal_fi_pr_device_language"
+msgstr "ਜੰਤਰ ਭਾਸ਼ਾ"
+
+msgid "cpal_fi_pr_info_date_format"
+msgstr "ਮਿਤੀ ਫਾਰਮੈਟ"
+
+msgid "cpal_fi_pr_info_decimal_point"
+msgstr "ਦਸ਼ਮਲਵ ਵੱਖਰੇਵਾਂ"
+
+msgid "cpal_fi_pr_info_thousands_separator"
+msgstr "ਹਜ਼ਾਰ ਵੱਖਰੇਵਾਂ"
+
+msgid "cpal_fi_pr_your_region"
+msgstr "ਖੇਤਰੀ ਸੈਟਿੰਗ"
+
+msgid "cpal_nc_changing_language"
+msgstr "ਸਭ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਬੰਦ ਕਰਕੇ ਜੰਤਰ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ।\nਕੀ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+msgid "cpal_ti_language_and_regional_title"
+msgstr "ਭਾਸ਼ਾ ਅਤੇ ਖੇਤਰ"
+
+msgid "dati_ap_application_title"
+msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ"
+
+msgid "dati_fi_24_clock"
+msgstr "੨੪-ਘੰਟੇ ਘੜੀ"
+
+msgid "dati_fi_alarm_tone"
+msgstr "ਅਲਾਰਮ ਟੋਨ"
+
+msgid "dati_fi_pr_date"
+msgstr "ਮਿਤੀ"
+
+msgid "dati_fi_pr_time"
+msgstr "ਸਮਾਂ"
+
+msgid "dati_fi_snooze_time"
+msgstr "ਟਾਲਣ ਸਮਾਂ"
+
+msgid "dati_fi_time_synchronization"
+msgstr "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ"
+
+msgid "dati_ia_adjust_date_and_time"
+msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਠੀਕ ਕਰੋ"
+
+msgid "dati_ia_pr_timezone"
+msgstr "ਸਮਾਂ ਖੇਤਰ"
+
+msgid "dati_ti_menu_plugin"
+msgstr "ਘੜੀ ਅਤੇ ਅਲਾਰਮ"
+
+msgid "dati_va_snooze_10"
+msgstr "੧੦ ਮਿੰਟ"
+
+msgid "dati_va_snooze_15"
+msgstr "੧੫ ਮਿੰਟ"
+
+msgid "dati_va_snooze_5"
+msgstr "੫ ਮਿੰਟ"
