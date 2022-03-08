@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: osso-clock 20090629141146\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2022-01-30 10:56+0000\n"
-"Last-Translator: Iva Byvalcová <iveta.cvejnova11@gmail.com>\n"
+"PO-Revision-Date: 2022-03-09 00:58+0000\n"
+"Last-Translator: menom <menom1@protonmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-clock-l10n/sk/>\n"
 "Language: sk_SK\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 msgid "cloc_alarm_settings_title"
 msgstr "Nastavenie budíka"
@@ -23,16 +23,14 @@ msgstr "Hodiny"
 msgid "cloc_ap_name_short"
 msgstr "Hodiny"
 
-#, fuzzy
 msgid "cloc_bd_alarm_notification_snooze"
-msgstr "Posunúť (oddialiť)"
+msgstr "Driemať"
 
 msgid "cloc_bd_stop"
 msgstr "Zastaviť"
 
-#, fuzzy
 msgid "cloc_bd_view"
-msgstr "Zobraziť (vzhľad)"
+msgstr "Zobraziť"
 
 msgid "cloc_fi_active"
 msgstr "Budík je aktivovaný"
@@ -49,7 +47,6 @@ msgstr "%s, %s"
 msgid "cloc_fi_no_matches"
 msgstr "Žiadne zhody"
 
-#, fuzzy
 msgid "cloc_fi_power_up_note_description"
 msgstr "Zapnúť zariadenie?"
 
@@ -87,7 +84,7 @@ msgid "cloc_fi_timezonefull_minutes"
 msgstr "GMT %+d:%d (%s, %s)"
 
 msgid "cloc_ia_choose_time_zone"
-msgstr "Zvolte časové pásmo"
+msgstr "Zvoľte časové pásmo"
 
 msgid "cloc_ib_file_deleted"
 msgstr "Aktuálny tón budíka bol odstránený"
@@ -107,7 +104,6 @@ msgstr "Nemožno vykonať operáciu. Skúste to znovu."
 msgid "cloc_notify_alarm_set"
 msgstr "Ostávajúci čas do budenia %s"
 
-#, fuzzy
 msgid "cloc_notify_alarm_set_days"
 msgstr "Zostávajúci čas do budenia o %s"
 
@@ -123,9 +119,8 @@ msgstr "Budíky"
 msgid "cloc_ti_edit_alarm_title"
 msgstr "Upravte budík"
 
-#, fuzzy
 msgid "cloc_ti_next"
-msgstr "Následujúci, další"
+msgstr "Ďalší"
 
 msgid "cloc_ti_open_sound_clip"
 msgstr "Pridajte tón budíka"
@@ -133,7 +128,6 @@ msgstr "Pridajte tón budíka"
 msgid "cloc_ti_search_city_title"
 msgstr "Hľadať mesto"
 
-#, fuzzy
 msgid "cloc_ti_start_day"
 msgstr "na %s"
 
@@ -149,7 +143,6 @@ msgstr "Zajtra"
 msgid "cloc_ti_world_clock_details"
 msgstr "Podrobnosti svetového času"
 
-#, fuzzy
 msgid "cloc_ti_world_clocks"
 msgstr "Svetové časy"
 
@@ -159,19 +152,17 @@ msgstr[0] "%d deň"
 msgstr[1] "%d dni"
 msgstr[2] "%d dní"
 
-#, fuzzy
 msgid "cloc_va_amount_hour"
 msgid_plural "cloc_va_amount_hours"
 msgstr[0] "%+d hodina"
-msgstr[1] "%+d hodín"
-msgstr[2] "%+d hodiny"
+msgstr[1] "%+d hodiny"
+msgstr[2] "%+d hodín"
 
-#, fuzzy
 msgid "cloc_va_amount_hour2"
 msgid_plural "cloc_va_amount_hours2"
 msgstr[0] "%s a %d hodina"
-msgstr[1] "%s a %d hodín"
-msgstr[2] "%s a %d hodiny"
+msgstr[1] "%s a %d hodiny"
+msgstr[2] "%s a %d hodín"
 
 msgid "cloc_va_diff_hours"
 msgstr "%s"
@@ -197,14 +188,12 @@ msgstr "Názov"
 msgid "cloc_va_select_object_no_sound_clips"
 msgstr "(žiadne súbory)"
 
-#, fuzzy
 msgid "clock_error_unabletoplay"
 msgstr "Nie je možné prehrať vybraný tón budíka"
 
 msgid "clock_ti_new_alarm"
 msgstr "Nový budík"
 
-#, fuzzy
 msgid "cpal_fi_pr_device_language"
 msgstr "Jazyk zariadenia"
 
@@ -214,19 +203,16 @@ msgstr "Formát dátumu"
 msgid "cpal_fi_pr_info_decimal_point"
 msgstr "Desatinná čiarka"
 
-#, fuzzy
 msgid "cpal_fi_pr_info_thousands_separator"
 msgstr "Oddeľovač tisícok"
 
-#, fuzzy
 msgid "cpal_fi_pr_your_region"
-msgstr "Regionálne nastavenie"
+msgstr "Regionálne nastavenia"
 
-#, fuzzy
 msgid "cpal_nc_changing_language"
 msgstr ""
-"Všetky aplikácie budú ukončené a zariadenie sa reštartuje .Napriek tomu "
-"pokračovať?"
+"Všetky aplikácie budú ukončené a zariadenie sa reštartuje.\n"
+"Napriek tomu pokračovať?"
 
 msgid "cpal_ti_language_and_regional_title"
 msgstr "Jazyk a región"
@@ -234,9 +220,8 @@ msgstr "Jazyk a región"
 msgid "dati_ap_application_title"
 msgstr "Dátum a čas"
 
-#, fuzzy
 msgid "dati_fi_24_clock"
-msgstr "24 hodinový formát hodin"
+msgstr "24 hodinový formát"
 
 msgid "dati_fi_alarm_tone"
 msgstr "Tón budíka"
@@ -253,7 +238,6 @@ msgstr "Čas odloženia"
 msgid "dati_fi_time_synchronization"
 msgstr "Aktualizovať automaticky"
 
-#, fuzzy
 msgid "dati_ia_adjust_date_and_time"
 msgstr "Upravte dátum a čas"
 
