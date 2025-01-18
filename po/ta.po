@@ -3,248 +3,252 @@ msgstr ""
 "Project-Id-Version: osso-clock 20090629141146\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2009.06.29 14:11+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 18:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-clock-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "cloc_alarm_settings_title"
-msgstr ""
+msgstr "அலாரம் அமைப்புகள்"
 
 msgid "cloc_ap_name"
-msgstr ""
+msgstr "கடிகை"
 
 msgid "cloc_ap_name_short"
-msgstr ""
+msgstr "கடிகை"
 
 msgid "cloc_bd_alarm_notification_snooze"
-msgstr ""
+msgstr "உறக்கநிலை"
 
 msgid "cloc_bd_stop"
-msgstr ""
+msgstr "நிறுத்து"
 
 msgid "cloc_bd_view"
-msgstr ""
+msgstr "பார்வை"
 
 msgid "cloc_fi_active"
-msgstr ""
+msgstr "அலாரம் செயலில்"
 
 msgid "cloc_fi_in_this_timezone"
-msgstr ""
+msgstr "இந்த நேர மண்டலத்தில்"
 
 msgid "cloc_fi_local_time"
-msgstr ""
+msgstr "உள்ளக நேரம்"
 
 msgid "cloc_fi_location"
-msgstr ""
+msgstr "%s, %s"
 
 msgid "cloc_fi_no_matches"
-msgstr ""
+msgstr "போட்டிகள் இல்லை"
 
 msgid "cloc_fi_power_up_note_description"
-msgstr ""
+msgstr "சாதனத்தை மாற்றவா?"
 
 msgid "cloc_fi_remote_time"
-msgstr ""
+msgstr "தொலைநிலை நேரம்"
 
 msgid "cloc_fi_repeat"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "cloc_fi_set_alarm_tone1"
-msgstr ""
+msgstr "கடிகார அலாரம் 1"
 
 msgid "cloc_fi_set_alarm_tone2"
-msgstr ""
+msgstr "கடிகார அலாரம் 2"
 
 msgid "cloc_fi_set_alarm_tone3"
-msgstr ""
+msgstr "கடிகார அலாரம் 3"
 
 msgid "cloc_fi_time"
-msgstr ""
+msgstr "நேரம்"
 
 msgid "cloc_fi_time_difference"
-msgstr ""
+msgstr "நேர வேறுபாடு"
 
 msgid "cloc_fi_timezone"
-msgstr ""
+msgstr "GMT %+D."
 
 msgid "cloc_fi_timezone_minutes"
-msgstr ""
+msgstr "GMT%+D:%d:%d:%d:%d:%d:%d:%d"
 
 msgid "cloc_fi_timezonefull"
-msgstr ""
+msgstr "GMT %+D ( %s, %s)"
 
 msgid "cloc_fi_timezonefull_minutes"
-msgstr ""
+msgstr "GMT %+D: %d ( %s, %s)"
 
 msgid "cloc_ia_choose_time_zone"
-msgstr ""
+msgstr "நேர மண்டலத்தைத் தேர்வுசெய்க"
 
 msgid "cloc_ib_file_deleted"
-msgstr ""
+msgstr "தற்போதைய அலாரம் தொனி நீக்கப்பட்டது"
 
 msgid "cloc_ib_world_clock_same"
-msgstr ""
+msgstr "நகரம் ஏற்கனவே சேர்க்கப்பட்டது"
 
 msgid "cloc_me_menu_settings_regional"
-msgstr ""
+msgstr "பிராந்திய அமைப்புகள்"
 
 msgid "cloc_me_new_world_clock"
-msgstr ""
+msgstr "புதிய உலக கடிகாரம்"
 
 msgid "cloc_ni_unable_to_perform"
-msgstr ""
+msgstr "செயல்பாட்டைச் செய்ய முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
 
 msgid "cloc_notify_alarm_set"
-msgstr ""
+msgstr "அலாரம் %s வரை நேரம்"
 
 msgid "cloc_notify_alarm_set_days"
-msgstr ""
+msgstr "%s பற்றி அலாரம் வரை நேரம் எஞ்சியிருக்கும்"
 
 msgid "cloc_ti_alarm_notification_title"
-msgstr ""
+msgstr "அலாரம்"
 
 msgid "cloc_ti_alarm_tone"
-msgstr ""
+msgstr "அலாரம் தொனியைத் தேர்வுசெய்க"
 
 msgid "cloc_ti_alarms"
-msgstr ""
+msgstr "அலாரங்கள்"
 
 msgid "cloc_ti_edit_alarm_title"
-msgstr ""
+msgstr "அலாரத்தைத் திருத்தவும்"
 
 msgid "cloc_ti_next"
-msgstr ""
+msgstr "அடுத்தது"
 
 msgid "cloc_ti_open_sound_clip"
-msgstr ""
+msgstr "அலாரம் தொனியைச் சேர்க்கவும்"
 
 msgid "cloc_ti_search_city_title"
-msgstr ""
+msgstr "தேடல் நகரம்"
 
 msgid "cloc_ti_start_day"
-msgstr ""
+msgstr "%s"
 
 msgid "cloc_ti_start_gmt"
-msgstr ""
+msgstr "தற்போது %s"
 
 msgid "cloc_ti_start_no"
-msgstr ""
+msgstr "(அலாரங்கள் இல்லை)"
 
 msgid "cloc_ti_start_tomorrow"
-msgstr ""
+msgstr "நாளை"
 
 msgid "cloc_ti_world_clock_details"
-msgstr ""
+msgstr "உலக கடிகார விவரங்கள்"
 
 msgid "cloc_ti_world_clocks"
-msgstr ""
+msgstr "உலக கடிகாரங்கள்"
 
 msgid "cloc_va_amount_day"
 msgid_plural "cloc_va_amount_days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d நாள்"
+msgstr[1] "%d நாட்கள்"
 
 msgid "cloc_va_amount_hour"
 msgid_plural "cloc_va_amount_hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%+டி மணி"
+msgstr[1] "%+டி மணிநேரம்"
 
 msgid "cloc_va_amount_hour2"
 msgid_plural "cloc_va_amount_hours2"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s மற்றும் %d மணிநேரம்"
+msgstr[1] "%s மற்றும் %d மணிநேரம்"
 
 msgid "cloc_va_diff_hours"
-msgstr ""
+msgstr "%s"
 
 msgid "cloc_va_diff_hours_mins"
-msgstr ""
+msgstr "%s %d நிமிடங்கள்"
 
 msgid "cloc_va_every_dayname"
-msgstr ""
+msgstr "%s"
 
 msgid "cloc_va_every_dayname_short"
-msgstr ""
+msgstr "%s"
 
 msgid "cloc_va_everyday"
-msgstr ""
+msgstr "தினமும்"
 
 msgid "cloc_va_never"
-msgstr ""
+msgstr "ஒருபோதும்"
 
 msgid "cloc_va_placeholder_title"
-msgstr ""
+msgstr "தலைப்பு"
 
 msgid "cloc_va_select_object_no_sound_clips"
-msgstr ""
+msgstr "(கோப்புகள் இல்லை)"
 
 msgid "clock_error_unabletoplay"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட அலாரம் தொனியை இயக்க முடியவில்லை"
 
 msgid "clock_ti_new_alarm"
-msgstr ""
+msgstr "புதிய அலாரம்"
 
 msgid "cpal_fi_pr_device_language"
-msgstr ""
+msgstr "சாதன மொழி"
 
 msgid "cpal_fi_pr_info_date_format"
-msgstr ""
+msgstr "தேதி வடிவம்"
 
 msgid "cpal_fi_pr_info_decimal_point"
-msgstr ""
+msgstr "தசம பிரிப்பான்"
 
 msgid "cpal_fi_pr_info_thousands_separator"
-msgstr ""
+msgstr "ஆயிரக்கணக்கான பிரிப்பான்"
 
 msgid "cpal_fi_pr_your_region"
-msgstr ""
+msgstr "பிராந்திய அமைப்புகள்"
 
 msgid "cpal_nc_changing_language"
 msgstr ""
+"அனைத்து பயன்பாடுகளும் மூடப்பட்டு சாதனம் மறுதொடக்கம் செய்யும்.\n"
+" எப்படியும் தொடரவா?"
 
 msgid "cpal_ti_language_and_regional_title"
-msgstr ""
+msgstr "மொழி & பகுதி"
 
 msgid "dati_ap_application_title"
-msgstr ""
+msgstr "தேதி மற்றும் நேரம்"
 
 msgid "dati_fi_24_clock"
-msgstr ""
+msgstr "24 மணி நேர கடிகாரம்"
 
 msgid "dati_fi_alarm_tone"
-msgstr ""
+msgstr "அலாரம் தொனி"
 
 msgid "dati_fi_pr_date"
-msgstr ""
+msgstr "திகதி"
 
 msgid "dati_fi_pr_time"
-msgstr ""
+msgstr "நேரம்"
 
 msgid "dati_fi_snooze_time"
-msgstr ""
+msgstr "உறக்கநிலை நேரம்"
 
 msgid "dati_fi_time_synchronization"
-msgstr ""
+msgstr "தானாக புதுப்பிக்கவும்"
 
 msgid "dati_ia_adjust_date_and_time"
-msgstr ""
+msgstr "தேதி மற்றும் நேரத்தை சரிசெய்யவும்"
 
 msgid "dati_ia_pr_timezone"
-msgstr ""
+msgstr "நேர மண்டலம்"
 
 msgid "dati_ti_menu_plugin"
-msgstr ""
+msgstr "கடிகாரம் & அலாரங்கள்"
 
 msgid "dati_va_snooze_10"
-msgstr ""
+msgstr "10 நிமிடங்கள்"
 
 msgid "dati_va_snooze_15"
-msgstr ""
+msgstr "15 நிமிடங்கள்"
 
 msgid "dati_va_snooze_5"
-msgstr ""
+msgstr "5 நிமிடங்கள்"
